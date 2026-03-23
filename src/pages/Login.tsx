@@ -68,7 +68,7 @@ const Login: React.FC = () => {
               </svg>
             </div>
             <div>
-              <h1 className="text-xl font-bold tracking-tight">Apex Capital</h1>
+              <h1 className="text-xl font-bold tracking-tight">Hellacious</h1>
               <p className="text-[11px] text-emerald-400 font-medium">Investor Portal</p>
             </div>
           </div>
@@ -102,7 +102,7 @@ const Login: React.FC = () => {
             </div>
           </div>
           <p className="text-[11px] text-slate-600 mt-6">
-            &copy; {new Date().getFullYear()} Apex Capital Group, LLC. All rights reserved.
+            &copy; {new Date().getFullYear()} Hellacious Group, LLC. All rights reserved.
           </p>
         </div>
       </div>
@@ -120,7 +120,7 @@ const Login: React.FC = () => {
               </svg>
             </div>
             <div>
-              <h1 className="text-lg font-bold text-slate-900">Apex Capital</h1>
+              <h1 className="text-lg font-bold text-slate-900">Hellacious</h1>
               <p className="text-[11px] text-slate-500 font-medium">Investor Portal</p>
             </div>
           </div>

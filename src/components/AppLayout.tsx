@@ -102,7 +102,7 @@ const AppLayout: React.FC = () => {
                   </svg>
                 </div>
                 <span className="text-[12px] text-slate-500">
-                  Apex Capital Group, LLC. All rights reserved.
+                   Hellacious, LLC. All rights reserved.
                 </span>
               </div>
               <div className="flex items-center gap-4">

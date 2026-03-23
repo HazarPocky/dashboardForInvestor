@@ -83,7 +83,7 @@ const Sidebar: React.FC<SidebarProps> = ({
               </svg>
             </div>
             <div>
-              <h1 className="text-[15px] font-semibold tracking-tight">Apex Capital</h1>
+              <h1 className="text-[15px] font-semibold tracking-tight">Hellacious</h1>
               <p className="text-[11px] text-slate-400 font-medium">Investor Portal</p>
             </div>
           </div>

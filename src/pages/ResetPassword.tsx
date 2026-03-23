@@ -44,7 +44,7 @@ const ResetPassword: React.FC = () => {
             </svg>
           </div>
           <div>
-            <h1 className="text-lg font-bold text-slate-900">Apex Capital</h1>
+            <h1 className="text-lg font-bold text-slate-900">Hellacious</h1>
             <p className="text-[11px] text-slate-500 font-medium">Investor Portal</p>
           </div>
         </div>
